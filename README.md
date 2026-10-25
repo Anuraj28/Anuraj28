@@ -1,126 +1,203 @@
-<!--
-  GitHub Profile README — Anuraj28
-  Replace or remove any section as your public portfolio grows.
--->
+<!-- Profile README for github.com/Anuraj28 -->
 
-<div align="center">
+```text
+ █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗      ██╗
+██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗     ██║
+███████║██╔██╗ ██║██║   ██║██████╔╝███████║     ██║
+██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██   ██║
+██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚█████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Anuraj+%F0%9F%91%8B;DevOps+%26+Cloud+Engineering;Linux+%7C+OpenStack+%7C+Automation;Building%2C+Automating%2C+Learning." alt="Animated introduction" />
+anuraj@cloud:~$ whoami
+  cloud & devops engineer  ·  linux  ·  openstack  ·  ci/cd
+anuraj@cloud:~$ uptime
+  automating the routine since 2024
+```
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=2800&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=60&amp;lines=Hi%2C+I%27m+Anuraj+%F0%9F%91%8B;DevOps+%26+Cloud+Engineering;Jenkins+%7C+CI%2FCD+%7C+Automation;Linux+%7C+OpenStack+%7C+Kubernetes;Building.+Automating.+Improving." alt="Hi, I'm Anuraj — DevOps &amp; Cloud Engineering — Jenkins, CI/CD, Automation — Linux, OpenStack, Kubernetes — Building. Automating. Improving." />
+</p>
 
-**DevOps • Cloud Infrastructure • Linux • Automation**
+<p align="center">
+  <b>DevOps Engineering</b> &nbsp;·&nbsp; <b>CI/CD</b> &nbsp;·&nbsp; <b>Cloud Infrastructure</b> &nbsp;·&nbsp; <b>Kubernetes</b> &nbsp;·&nbsp; <b>Linux Automation</b>
+</p>
 
-*Turning infrastructure challenges into repeatable, automated workflows.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Anuraj28-181717?style=for-the-badge&logo=github)](https://github.com/Anuraj28)
-[![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![OpenStack](https://img.shields.io/badge/OpenStack-Cloud-ED1944?style=for-the-badge&logo=openstack&logoColor=white)](https://www.openstack.org/)
-
-</div>
+<p align="center">
+<a href="https://github.com/Anuraj28"><img src="https://img.shields.io/badge/GitHub-1A2332?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anuraj-rajput-888b722a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:anurajrajpoot2805@gmail.com"><img src="https://img.shields.io/badge/Email-1A2332?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+<br />
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me &nbsp;<sub><code>$ cat about.md</code></sub>
 
-I'm a Computer Science student with hands-on experience in Linux administration and cloud infrastructure, and a strong interest in DevOps engineering.
+I'm **Anuraj**, a Cloud & DevOps engineer based in New Delhi. My day job sits on the operations side of private cloud: keeping **Red Hat OpenStack** compute healthy, scaling capacity in and out, onboarding tenants, and working out why an instance won't schedule or a service has quietly degraded. Before that, I spent two years building **Jenkins** pipelines, running **AWX/Ansible** automation and hardening Linux and web infrastructure.
 
-I enjoy working with infrastructure automation, troubleshooting distributed systems, and developing tools that simplify operational tasks.
+The work I enjoy most happens between *"it's broken"* and *"it won't break that way again"*: reading logs, finding the root cause, writing it up, and turning the fix into a script, playbook or pipeline so nobody has to do it by hand twice.
 
-- ☁️ Exploring cloud engineering with **OpenStack and RHOSP**.
-- ⚙️ Working with **Ansible, Python, Bash, and GitLab CI/CD**.
-- 🐧 Interested in Linux systems, networking, virtualization, and reliability.
-- 📊 Exploring monitoring and observability with **Grafana, Zabbix, and Nagios**.
-- 🚀 Continuously developing my skills in **Kubernetes, Docker, Helm, and CI/CD**.
+Alongside work I'm finishing a B.Tech in Computer Science and building real depth in Kubernetes. I'd rather understand one system properly than list ten I've only skimmed.
+<br />
 
 ---
 
-## 🧰 Tech Stack
+## ⚙️ CI/CD is home base &nbsp;<sub><code>$ jenkins --status</code></sub>
 
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack"/>
-  <img src="https://img.shields.io/badge/RHOSP-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHOSP"/>
-  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" alt="Ceph"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<p align="center">
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" /></a>
 </p>
 
-### DevOps & Automation
+```text
+ ┌──────────┐   ┌─────────┐   ┌────────┐   ┌──────────┐   ┌──────────┐
+ │  commit  │──▶│  build  │──▶│  test  │──▶│ package  │──▶│  deploy  │
+ └──────────┘   └─────────┘   └────────┘   └──────────┘   └──────────┘
+```
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### Containers & Orchestration
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
-  <img src="https://img.shields.io/badge/Kind-3776AB?style=flat-square&logo=kubernetes&logoColor=white" alt="Kind"/>
-</p>
-
-### Monitoring & Observability
-
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/>
-  <img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white" alt="Nagios"/>
-</p>
-
-### Backend & APIs
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+Much of my automation work has run through **Jenkins**: pipelines that build, test and deploy across environments, wired into **Git/GitLab** repositories and **Docker** image builds. On my own projects I use **GitHub Actions** for the same pattern, including image-tag-based rollback.
+<br />
 
 ---
 
-## 🎯 Current Focus
+## 🧰 Tech stack &nbsp;<sub><code>$ ls ~/toolbox</code></sub>
 
-- Strengthening CI/CD pipelines and deployment workflows.
-- Learning more about Kubernetes, container orchestration, and Helm.
-- Improving infrastructure automation and configuration management.
-- Building practical tools for cloud inventory and infrastructure operations.
-- Developing deeper knowledge of monitoring, troubleshooting, and system reliability.
+<sub>Badges marked <b>learning</b> are tools I'm actively studying and using in labs, not production.</sub>
 
----
+#### ☁️ Cloud & Infrastructure
+<p>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/openstack-platform"><img src="https://img.shields.io/badge/Red%20Hat%20OpenStack-1A2332?style=for-the-badge&amp;logo=redhat&amp;logoColor=EE0000" alt="Red Hat OpenStack" /></a>
+<a href="https://www.openstack.org/"><img src="https://img.shields.io/badge/OpenStack-1A2332?style=for-the-badge&amp;logo=openstack&amp;logoColor=ED1944" alt="OpenStack" /></a>
+<a href="https://ceph.io/"><img src="https://img.shields.io/badge/Ceph-1A2332?style=for-the-badge&amp;logo=ceph&amp;logoColor=EF5C55" alt="Ceph" /></a>
+<a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS%20EC2-1A2332?style=for-the-badge" alt="AWS EC2" /></a>
+<a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/VMware-1A2332?style=for-the-badge&amp;logo=vmware&amp;logoColor=79C143" alt="VMware" /></a>
+<a href="https://www.vagrantup.com/"><img src="https://img.shields.io/badge/Vagrant-1A2332?style=for-the-badge&amp;logo=vagrant&amp;logoColor=1868F2" alt="Vagrant" /></a>
+</p>
+<sub>OpenStack services I work with day to day: Nova · Neutron · Cinder · Placement, with Ceph-backed storage.</sub>
 
-## 📌 Featured Projects
+#### 🐧 Linux & Systems Administration
+<p>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.shields.io/badge/RHEL-1A2332?style=for-the-badge&amp;logo=redhat&amp;logoColor=EE0000" alt="RHEL" /></a>
+<a href="https://www.centos.org/"><img src="https://img.shields.io/badge/CentOS-1A2332?style=for-the-badge&amp;logo=centos&amp;logoColor=A14F8C" alt="CentOS" /></a>
+<a href="https://ubuntu.com/server"><img src="https://img.shields.io/badge/Ubuntu%20Server-1A2332?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=E95420" alt="Ubuntu Server" /></a>
+<a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-1A2332?style=for-the-badge&amp;logo=nginx&amp;logoColor=009639" alt="Nginx" /></a>
+<a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-1A2332?style=for-the-badge&amp;logo=apache&amp;logoColor=D22128" alt="Apache" /></a>
+</p>
+<sub>Also: DNS, DHCP, NFS, Postfix, SSL/TLS, iptables / firewalld / UFW, ACLs, SSH hardening, patch management.</sub>
 
-I use GitHub to document my learning, share useful tools, and build practical engineering projects.
-
-As my public portfolio grows, I'll feature projects here with clear documentation, setup instructions, architecture details, and examples.
-
-<!-- Add projects only when they are public and safe to share.
-     Example:
-     - [Project Name](https://github.com/Anuraj28/REPOSITORY)
-       A short description of what the project does.
--->
-
----
-
-## 🤝 Connect
-
-I'm interested in connecting with people working in DevOps, cloud engineering, Linux, automation, and open-source infrastructure.
-
-<p align="left">
-  <a href="https://github.com/Anuraj28">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-  </a>
+#### 🔁 CI/CD & DevOps
+<p>
+<a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" /></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-1A2332?style=for-the-badge&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" /></a>
+<a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-1A2332?style=for-the-badge&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-1A2332?style=for-the-badge&amp;logo=git&amp;logoColor=F05032" alt="Git" /></a>
 </p>
 
-<div align="center">
+#### 📦 Containers & Orchestration
+<p>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-1A2332?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" /></a>
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-learning-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&amp;labelColor=1A2332" alt="Kubernetes (learning)" /></a>
+<a href="https://helm.sh/"><img src="https://img.shields.io/badge/Helm-learning-0F1689?style=for-the-badge&amp;logo=helm&amp;logoColor=white&amp;labelColor=1A2332" alt="Helm (learning)" /></a>
+<a href="https://kind.sigs.k8s.io/"><img src="https://img.shields.io/badge/Kind-learning-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white&amp;labelColor=1A2332" alt="Kind (learning)" /></a>
+</p>
 
-### *Automate the routine. Understand the system. Keep learning.* ⚡
+#### 🤖 Automation & Scripting
+<p>
+<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-1A2332?style=for-the-badge&amp;logo=ansible&amp;logoColor=EE0000" alt="Ansible" /></a>
+<a href="https://github.com/ansible/awx"><img src="https://img.shields.io/badge/AWX-1A2332?style=for-the-badge&amp;logo=ansible&amp;logoColor=EE0000" alt="AWX" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1A2332?style=for-the-badge&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Bash" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1A2332?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" /></a>
+</p>
 
-</div>
+#### 📈 Monitoring & Observability
+<p>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-1A2332?style=for-the-badge&amp;logo=grafana&amp;logoColor=F46800" alt="Grafana" /></a>
+<a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/Zabbix-1A2332?style=for-the-badge&amp;logo=zabbix&amp;logoColor=D40000" alt="Zabbix" /></a>
+<a href="https://www.nagios.org/"><img src="https://img.shields.io/badge/Nagios-1A2332?style=for-the-badge&amp;logo=nagios&amp;logoColor=white" alt="Nagios" /></a>
+</p>
+
+#### 🧩 Development & APIs
+<p>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-1A2332?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=5FA04E" alt="Node.js" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-1A2332?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" /></a>
+<a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-1A2332?style=for-the-badge&amp;logo=mariadb&amp;logoColor=C0765A" alt="MariaDB" /></a>
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-1A2332?style=for-the-badge&amp;logo=sqlite&amp;logoColor=7AB8DE" alt="SQLite" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-learning-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white&amp;labelColor=1A2332" alt="FastAPI (learning)" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-learning-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white&amp;labelColor=1A2332" alt="PostgreSQL (learning)" /></a>
+</p>
+<sub>REST APIs and backend basics in Python and Node.js.</sub>
+<br />
+
+---
+
+## 🛠️ What I work on &nbsp;<sub><code>$ cat Jenkinsfile</code></sub>
+
+```groovy
+pipeline {
+  agent { label 'linux' }
+  stages {
+    stage('Operate')  { steps { echo 'OpenStack ops · Linux · incident RCA' } }
+    stage('Automate') { steps { echo 'Jenkins · Ansible/AWX · Bash · Python' } }
+    stage('Observe')  { steps { echo 'Grafana · Zabbix · Nagios' } }
+    stage('Learn')    { steps { echo 'Kubernetes · Helm · Kind' } }
+  }
+}
+```
+
+| | Area | What that means in practice |
+|:-:|:--|:--|
+| 🔁 | **Jenkins & CI/CD** | Building and maintaining build → test → deploy pipelines |
+| 🤖 | **Infrastructure automation** | Ansible playbooks, AWX job scheduling, Bash and Python tooling for repeat ops work |
+| ☁️ | **OpenStack operations** | Compute scale-in/out, tenant and resource lifecycle, node health, troubleshooting compute, network and storage faults |
+| 🐧 | **Linux administration** | RHEL / Ubuntu servers, web and network services, security hardening, runbooks |
+| 📈 | **Monitoring & RCA** | Dashboards and alerting, root-cause analysis, post-incident write-ups |
+| 🌱 | **Learning: Kubernetes** | Kind clusters, Helm charts and container orchestration fundamentals |
+<br />
+
+---
+
+## 🚀 Featured projects &nbsp;<sub><code>$ ls ~/projects</code></sub>
+
+### [multi-stack-devops-deployment](https://github.com/Anuraj28/multi-stack-devops-deployment)
+A MERN stack and a LAMP stack running side by side behind an **Nginx reverse proxy** with path-based routing, deployed with Docker Compose.
+- 4-stage **GitHub Actions** pipeline: checkout → build → push → deploy, with rollback by redeploying a previous image tag
+- Security layer: UFW firewall rules, Nginx TLS termination, security headers and an SSH hardening checklist
+
+`GitHub Actions` `Docker` `Nginx` `Node.js` `MongoDB` `Apache` `PHP` `MySQL` `UFW`
+
+### [Latencyhub](https://github.com/Anuraj28/Latencyhub)
+A browser-based network diagnostics tool: real-time latency, jitter and packet-loss visualisation with nothing to install on the client.
+- Traceroute with reverse DNS and a **TCP port 80 fallback** for networks that block ICMP
+- Results stored in SQLite, with an admin view for looking up past checks; runs behind an Nginx reverse proxy
+
+`Node.js` `JavaScript` `SQLite` `Nginx` `WebSocket`
+
+### [vagrant-vprofile-stack](https://github.com/Anuraj28/vagrant-vprofile-stack)
+A five-VM, multi-tier application environment (Nginx, Tomcat, MySQL, Memcached, RabbitMQ) provisioned end to end with **Vagrant** and shell scripts.
+- One `vagrant up` creates the VMs, configures a private network and installs every service
+- Each tier isolated on its own VM to mirror a production-style layout
+
+`Vagrant` `VirtualBox` `Bash` `Nginx` `Tomcat` `MySQL` `RabbitMQ`
+<br />
+
+---
+
+## 🎓 Education & certification
+
+**B.Tech, Computer Science** · expected 2027 &nbsp;&nbsp;|&nbsp;&nbsp; **AWS Cloud Assessment** · May 2025
+<br />
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to talk about DevOps, cloud infrastructure, Linux and automation, or to compare notes on a stubborn incident.
+
+<p align="center">
+<a href="https://github.com/Anuraj28"><img src="https://img.shields.io/badge/GitHub-1A2332?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/anuraj-rajput-888b722a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:anurajrajpoot2805@gmail.com"><img src="https://img.shields.io/badge/Email-1A2332?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <code>❯ automate the routine · understand the system · keep shipping</code>
+</p>
