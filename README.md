@@ -1,77 +1,126 @@
-# Hi, I'm Anuraj 👋
+<!--
+  GitHub Profile README — Anuraj28
+  Replace or remove any section as your public portfolio grows.
+-->
 
-### DevOps | Cloud Infrastructure | Linux | Automation
+<div align="center">
 
-I'm a Computer Science student and infrastructure engineer interested in building reliable, scalable, and automated infrastructure. My work and learning focus on Linux administration, cloud platforms, infrastructure automation, CI/CD, and container orchestration.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+Anuraj+%F0%9F%91%8B;DevOps+%26+Cloud+Engineering;Linux+%7C+OpenStack+%7C+Automation;Building%2C+Automating%2C+Learning." alt="Animated introduction" />
 
-I enjoy troubleshooting complex infrastructure issues, automating repetitive operational tasks, and developing tools that make infrastructure easier to monitor and manage.
+<br/>
 
----
+**DevOps • Cloud Infrastructure • Linux • Automation**
 
-## 🚀 Areas of Interest
+*Turning infrastructure challenges into repeatable, automated workflows.*
 
-- **DevOps & CI/CD** — Build automation, deployment workflows, Git, and GitLab CI/CD
-- **Cloud Engineering** — OpenStack, RHOSP, cloud infrastructure, and virtualized environments
-- **Linux Administration** — RHEL, Ubuntu, systemd, networking, and troubleshooting
-- **Infrastructure as Code** — Ansible and configuration management
-- **Containers & Orchestration** — Docker, Kubernetes, and Helm
-- **Monitoring & Observability** — Grafana, Zabbix, and Nagios
-- **Backend Development** — Python, FastAPI, and REST APIs
+<br/>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Anuraj28-181717?style=for-the-badge&logo=github)](https://github.com/Anuraj28)
+[![Linux](https://img.shields.io/badge/Linux-Infrastructure-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![OpenStack](https://img.shields.io/badge/OpenStack-Cloud-ED1944?style=for-the-badge&logo=openstack&logoColor=white)](https://www.openstack.org/)
 
-## 🛠️ Technologies & Tools
-
-**Operating Systems**
-  
-`RHEL` · `Ubuntu` · `Linux`
-
-**Cloud & Virtualization**
-
-`OpenStack` · `RHOSP` · `Nova` · `Neutron` · `Cinder` · `Ceph`
-
-**DevOps & Automation**
-
-`Git` · `GitLab CI/CD` · `Ansible` · `Bash` · `Python`
-
-**Containers & Orchestration**
-
-`Docker` · `Kubernetes` · `Helm` · `Kind`
-
-**Monitoring**
-
-`Grafana` · `Zabbix` · `Nagios`
-
-**Development & APIs**
-
-`FastAPI` · `REST APIs` · `PostgreSQL`
+</div>
 
 ---
 
-## 💻 What I'm Working Toward
+## 👨‍💻 About Me
 
-- Improving CI/CD workflows and deployment automation.
-- Exploring Kubernetes and container-based infrastructure.
-- Building practical automation tools for cloud and infrastructure operations.
-- Strengthening my skills in Infrastructure as Code, observability, and cloud-native technologies.
-- Learning through hands-on troubleshooting, experimentation, and real-world infrastructure scenarios.
+I'm a Computer Science student with hands-on experience in Linux administration and cloud infrastructure, and a strong interest in DevOps engineering.
 
----
+I enjoy working with infrastructure automation, troubleshooting distributed systems, and developing tools that simplify operational tasks.
 
-## 🌱 Beyond the Terminal
-
-I believe in continuous learning, practical problem-solving, and writing automation that makes infrastructure operations more consistent and maintainable.
-
-I'm always interested in exploring better ways to deploy, monitor, troubleshoot, and manage systems.
+- ☁️ Exploring cloud engineering with **OpenStack and RHOSP**.
+- ⚙️ Working with **Ansible, Python, Bash, and GitLab CI/CD**.
+- 🐧 Interested in Linux systems, networking, virtualization, and reliability.
+- 📊 Exploring monitoring and observability with **Grafana, Zabbix, and Nagios**.
+- 🚀 Continuously developing my skills in **Kubernetes, Docker, Helm, and CI/CD**.
 
 ---
 
-## 🤝 Let's Connect
+## 🧰 Tech Stack
 
-I'm open to connecting with people interested in DevOps, Linux, cloud engineering, automation, and open-source technology.
+### Cloud & Infrastructure
 
-- **GitHub:** [@Anuraj28](https://github.com/Anuraj28)
+<p>
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" alt="OpenStack"/>
+  <img src="https://img.shields.io/badge/RHOSP-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHOSP"/>
+  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" alt="Ceph"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+### DevOps & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### Containers & Orchestration
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Kind-3776AB?style=flat-square&logo=kubernetes&logoColor=white" alt="Kind"/>
+</p>
+
+### Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white" alt="Nagios"/>
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
 ---
 
-*Learn. Automate. Improve. Repeat.*
+## 🎯 Current Focus
+
+- Strengthening CI/CD pipelines and deployment workflows.
+- Learning more about Kubernetes, container orchestration, and Helm.
+- Improving infrastructure automation and configuration management.
+- Building practical tools for cloud inventory and infrastructure operations.
+- Developing deeper knowledge of monitoring, troubleshooting, and system reliability.
+
+---
+
+## 📌 Featured Projects
+
+I use GitHub to document my learning, share useful tools, and build practical engineering projects.
+
+As my public portfolio grows, I'll feature projects here with clear documentation, setup instructions, architecture details, and examples.
+
+<!-- Add projects only when they are public and safe to share.
+     Example:
+     - [Project Name](https://github.com/Anuraj28/REPOSITORY)
+       A short description of what the project does.
+-->
+
+---
+
+## 🤝 Connect
+
+I'm interested in connecting with people working in DevOps, cloud engineering, Linux, automation, and open-source infrastructure.
+
+<p align="left">
+  <a href="https://github.com/Anuraj28">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+</p>
+
+<div align="center">
+
+### *Automate the routine. Understand the system. Keep learning.* ⚡
+
+</div>
